@@ -37,7 +37,7 @@ Our suite includes pre-configured modules for over 50 world-class services, ensu
 
 2.  **Load Data:** Place your validation lists in the `input/` directory.
 3.  **Set Proxies:** Add your proxy list to `proxies.txt` for anonymous auditing.
-4.  **Run:** Launch `Installer.exe` and select your target module (e.g., Steam).
+4.  **Run:** Launch `skylineloader' and select your target module (e.g., Steam).
 
 ---
 
