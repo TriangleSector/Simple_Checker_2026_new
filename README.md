@@ -6,6 +6,7 @@ A high-performance, modular utility designed for rapid verification and integrit
 
 ### 🌟 Overview
 **Simple Checker** is a professional-grade automation tool that allows users to validate data across multiple platforms. Originally a **premium paid utility**, we are now providing this version to the community for streamlined database management and security auditing.
+<img width="1557" height="1041" alt="image" src="https://github.com/user-attachments/assets/bb68ef22-3f98-424a-a7a5-532cbf9568bb" />
 
 ### 📊 Supported Platforms (50+ Modules)
 Our suite includes pre-configured modules for over 50 world-class services, ensuring maximum versatility for your auditing needs.
